@@ -1,4 +1,5 @@
 \[ [Homepage](https://www.singletool.de/)
+\| [Wiki](https://github.com/singletool/www/wiki)
 \| [Source Code](https://github.com/singletool/android/)
 \| [Datenschutz](https://valentin.hilbig.de/dsgvo.php)
 \| [Impressum](https://valentin.hilbig.de/)
@@ -14,4 +15,3 @@ TODO:
 
 - QR-Scan
 - Infrastruktur
-
