@@ -9,4 +9,4 @@ TODO:
 - QR-Scan
 - Infrastruktur
 
-[ [Source Code](https://github.com/singletool/android/) | [Impressum](https://valentin.hilbig.de/) ]
+\[ [Source Code](https://github.com/singletool/android/) \| [Impressum](https://valentin.hilbig.de/) \]
