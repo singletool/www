@@ -1,3 +1,9 @@
+\[ [Homepage](https://www.singletool.de/)
+\| [Source Code](https://github.com/singletool/android/)
+\| [Datenschutz](https://valentin.hilbig.de/dsgvo.php)
+\| [Impressum](https://valentin.hilbig.de/)
+\]
+
 ## SingleTool
 
 Leistungsumfang:
@@ -9,4 +15,3 @@ TODO:
 - QR-Scan
 - Infrastruktur
 
-\[ [Homepage](https://www.singletool.de/) \| [Source Code](https://github.com/singletool/android/) \| [Impressum](https://valentin.hilbig.de/) \]
