@@ -7,11 +7,15 @@
 
 ## SingleTool
 
-Leistungsumfang:
+SingleTool wird ein Tool der Tools, das mehrere Tools, die ich ständig brauche, in eines zusammenführt.
+
+Akuter Leistungsumfang:
 
 - Derzeit ein nicht anpassbares experimentelles Cloud-Messaging (Infrastruktur -> App)
 
-TODO:
+TODO Leistungsumfang:
 
-- QR-Scan
+- Authenticator
+  - QR-Scan
+- Shortcuts
 - Infrastruktur
