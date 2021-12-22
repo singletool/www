@@ -22,7 +22,7 @@ Diese Webseiten sind bei GitHub gehostet als sogenannte GitHub Pages.
 
 # Datenschutzerklärung
 
-Originalquelle <https://opr.vc/docs/hosting/github_pages/>
+> Quelle <https://opr.vc/docs/hosting/github_pages/>
 
 Übernommen und leicht abgewandelt von
 
