@@ -12,7 +12,7 @@ Dabei werden keinerlei Verbindungen zu externen Seiten etc. aufgebaut.
 
 Eine [Kopie der Datenschutzerklärung](https://github.com/singletool/www/wiki/dsgvo) befindet sich (derzeit noch ebenfalls) im [Wiki](https://github.com/singletool/www/wiki).
 
-Für dieses Wiki und diese Seiten gilt die im folgende Datenschutzerklärung.
+Für dieses Wiki und diese Seiten gilt folgende Datenschutzerklärung.
 
 
 # Datenschutzhinweise zu Seiten, die auf GitHub gehostet sind
