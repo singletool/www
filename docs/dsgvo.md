@@ -25,10 +25,10 @@ Diese Webseiten sind bei GitHub gehostet als sogenannte GitHub Pages.
 > Quelle <https://opr.vc/docs/hosting/github_pages/>
 >
 > Übernommen und leicht abgewandelt durch:
-
-    Valentin Hilbig
-    Am Sportfeld 5
-    86482 Aystetten
+>
+>     Valentin Hilbig
+>     Am Sportfeld 5
+>     86482 Aystetten
 
 Impressum siehe <https://valentin.hilbig.de/>.
 Ich bin juristischer Laie.
