@@ -5,8 +5,15 @@
 \| [Impressum](https://valentin.hilbig.de/)
 \]
 
-- Die [Datenschutzerklärung von SingleTool](https://github.com/singletool/www/wiki/dsgvo) ist im [Wiki](https://github.com/singletool/www/wiki) abrufbar.
-- Für das Wiki gilt die auf dieser Seite beschriebene Datenschutzerklärung!
+# Datenschutzerklärung zu SingleTool
+
+Die Datenschutzerklärung von SingleTool ist auch direkt im Tool selbst abrufbar.
+Dabei werden keinerlei Verbindungen zu externen Seiten etc. aufgebaut.
+
+Eine [Kopie der Datenschutzerklärung](https://github.com/singletool/www/wiki/dsgvo) befindet sich (derzeit noch ebenfalls) im [Wiki](https://github.com/singletool/www/wiki).
+
+Für dieses Wiki und diese Seiten gilt die im folgende Datenschutzerklärung.
+
 
 # Datenschutzhinweise zu Seiten, die auf GitHub gehostet sind
 
