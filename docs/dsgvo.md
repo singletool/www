@@ -23,8 +23,8 @@ Diese Webseiten sind bei GitHub gehostet als sogenannte GitHub Pages.
 # Datenschutzerklärung
 
 > Quelle <https://opr.vc/docs/hosting/github_pages/>
-
-Übernommen und leicht abgewandelt von
+>
+> Übernommen und leicht abgewandelt durch:
 
     Valentin Hilbig
     Am Sportfeld 5
