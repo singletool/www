@@ -51,7 +51,8 @@ Inhalt der **Anforderung**,
 sowie ggf. weiter vom Browser gesetzte HTTP-Header wie **DNT**.
 
 Das ist erforderlich, um Websites anzuzeigen und die Stabilität und Sicherheit zu gewährleisten.
-Dies entspricht dem berechtigten Interesse im Sinne des Art. 6 Abs. 1 S. 1 lit. f DSGVO.
+Dies entspricht dem berechtigten Interesse im Sinne des
+[Art. 6 Abs. 1 S. 1 lit. f DSGVO](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32016R0679#d1e1906-1-1).
 
 Es erfolgt kein Tracking und ich habe auf diese Daten keinen direkten Zugriff, sondern erhalte, wenn überhaupt, lediglich eine anonymisierte, statistische Zusammenfassung.
 Diese beinhaltet die Adresse der vorher besuchten Seite, die Häufigkeit der jeweils aufgerufenen Seiten und die Anzahl eindeutiger Besucher.
@@ -65,13 +66,16 @@ Ich setze für die Zurverfügungstellung der Website folgenden Hoster ein:
     United States
 
 Dieser ist Empfänger Ihrer personenbezogenen Daten.
-Dies entspricht dem berechtigten Interesse im Sinne des Art. 6 Abs. 1 S. 1 lit. f DSGVO,
+Dies entspricht dem berechtigten Interesse im Sinne des
+[Art. 6 Abs. 1 S. 1 lit. f DSGVO](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32016R0679#d1e1906-1-1),
 selbst keinen Server in meinen Räumlichkeiten vorhalten zu müssen.
 
 **Serverstandort ist USA.**
 
 Weitere Informationen zu Widerspruchs- und Beseitigungsmöglichkeiten gegenüber GitHub finden Sie unter:
 <https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-privacy-statement#github-pages> (in englischer Sprache)
+
+> Bitte wenden Sie sich bei Fragen zu Folgendem entsprechend direkt an GitHub:
 
 Sie haben das Recht der Verarbeitung zu widersprechen.
 Ob der Widerspruch erfolgreich ist, ist im Rahmen einer Interessenabwägung zu ermitteln.
@@ -99,4 +103,5 @@ Weiter heißt es in <https://www.lda.bayern.de/media/veroeffentlichungen/FAQ_Hos
 > Das wäre nicht sachgerecht.
 > Die (kurzfristige) IP-Adressenspeicherung ist vielmehr noch der TK-Zugangsvermittlung des Website-Hosters nach dem TKG zuzurechnen und dient in erster Linie Sicherheitszwecken des Hosters.
 
-Ich gehe davon aus, dass diese Ausnahme auf GitHub Pages anzuwenden ist.
+Obwohl ich nicht beweisen kann, dass die Bedingungen durch GitHub erfüllt werden, gehe ich davon aus,
+dass diese Ausnahme auf die statisch bei GitHub gehosteten GitHub Pages gilt.
